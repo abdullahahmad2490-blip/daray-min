@@ -1,0 +1,16 @@
+{
+  "name": "دارایی من — داهات و خەرجی",
+  "short_name": "دارایی من",
+  "description": "تۆمارکردنی داهات و خەرجی بە کوردی",
+  "lang": "ckb",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#091121",
+  "theme_color": "#101b32",
+  "icons": [
+    {"src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
